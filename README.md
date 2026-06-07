@@ -6,16 +6,17 @@ The case study focuses on a retail company operating 30 stores that has experien
 
 🧠 Problem Context
 The retail company provided a dataset of approximately 50,000 records covering:
-Store performance
-Product sales
-Customer transactions
-Loyalty programme activity
+•Store performance
+•Product sales
+•Customer transactions
+•Loyalty programme activity
 The objective is to analyze these data areas to understand performance trends and customer behavior patterns.
+
 🎯 Project Objectives
-Design a structured AI prompt using the RCTTCE framework
-Generate SMART business questions to guide analysis
-Translate findings into a stakeholder-friendly business brief
-Support data-driven decision-making for retail improvement
+•Design a structured AI prompt using the RCTTCE framework
+•Generate SMART business questions to guide analysis.
+•Translate findings into a stakeholder-friendly business brief.
+•Support data-driven decision-making for retail improvement.
 
 📄 Contents
 •RCTTCE AI Prompt (Part A)
