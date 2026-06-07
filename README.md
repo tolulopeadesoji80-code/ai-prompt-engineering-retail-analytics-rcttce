@@ -33,5 +33,4 @@ The objective is to analyze these data areas to understand performance trends an
 This project demonstrates how structured AI prompting can be used to extract meaningful insights from retail data and support strategic decisions such as store optimization, product strategy improvement, and customer retention initiatives.
 
 👤 Author
-
 Eunice Adesoji
